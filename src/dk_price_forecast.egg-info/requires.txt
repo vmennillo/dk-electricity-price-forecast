@@ -1,0 +1,8 @@
+pandas
+requests
+pyarrow
+scikit-learn
+matplotlib
+
+[dev]
+pytest
